@@ -1,0 +1,77 @@
+A comprehensive guide for consistent design across our mobile application.  
+This repository documents the **colors, typography, components, spacing, and imagery** used in our UI system.
+
+**Primary Color**
+- Primary Blue: `#3366FF`  
+  Used for primary buttons, active states, links, and key interactive elements.  
+
+**Secondary Colors**
+- Red: `#FF4D4D` → Errors, alerts, destructive actions  
+- Yellow: `#FFCC00` → Warnings, pending states, highlighting  
+- Green: `#28A745` → Success states, confirmations, positive actions  
+
+**Neutral Colors**
+- Grays (`#FAFAFA` → `#212121`) used for backgrounds, borders, dividers, and text emphasis.  
+
+---
+
+## ✍ Typography
+
+**Font Families**
+- Primary: **Roboto**
+- Secondary: **Open Sans**
+
+**Type Scale**
+- H1: 32px, Bold  
+- H2: 24px, Medium  
+- Body: 16px, Regular  
+- Caption: 14px, Regular  
+
+**Line Height**
+- Headings: 1.3 × font size  
+- Body text: 1.5 × font size  
+
+**Buttons**
+- Primary (filled)  
+- Secondary (outline)  
+- Text only  
+- Disabled state  
+
+**Form Elements**
+- Input fields with labels & placeholders  
+- Checkboxes & Radio buttons  
+
+**Cards**
+- Standard card with title, description, and actions  
+
+**Navigation**
+- Tabs: Home, Profile, Settings  
+
+**States**
+- Default | Hover | Active | Disabled  
+
+
+- **Grid System**: 8px  
+- **Margins/Paddings**: Multiples of 16px  
+- **Component Spacing**: Consistent spacing to ensure clear visual hierarchy  
+
+**Layout Principles**
+- Mobile-first design  
+- Clear visual hierarchy  
+- Keep actions within thumb reach  
+- Maintain whitespace for readability  
+
+
+**Icon Guidelines**
+- Stroke width: 2px  
+- Corner radius: 2px  
+- Style: Simple, recognizable, pixel-perfect  
+
+**Image Guidelines**
+- Product Photos: Clean background, consistent lighting  
+- User Photos: Circular crop, centered composition  
+
+
+
+
+
